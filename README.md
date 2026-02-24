@@ -1,5 +1,4 @@
 # git-activity
-<<<<<<< HEAD
 
 This is linea 1.
 Thiss is line 2.
@@ -31,6 +30,8 @@ This is line 13.
 
 michael's new edit
 
-=======
 edits in new branch
->>>>>>> 0c1d049 (Update README with new branch edits note)
+
+
+ar ar ar ar ar
+w jaya - cyrus
